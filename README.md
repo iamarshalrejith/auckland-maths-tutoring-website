@@ -1,6 +1,6 @@
 # Auckland Maths Tutoring Website
 
-![Website Preview](./assets/preview.png)
+![Website Preview](./assets/preview.jpg)
 
 A modern, responsive tutoring website for Auckland Maths Tutoring built with Vite and Tailwind CSS v4.1. The website showcases professional math tutoring services with an elegant design and smooth user experience.
 
